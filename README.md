@@ -1,10 +1,10 @@
 # DivineLogger
 Keylogger builder written in C#
 ```
-- Email sending
-- Chrome logins export
-- Auto startup
-- Export IP address in email subject
+• Email sending
+• Chrome logins export
+• Auto startup
+• Export IP address in email subject
 ```
 <h3>Check out our crashcourse</h3>
 <a href="https://divine_software.keybase.pub/courses/divinelogger/divinelogger.html">Keylogger in C# from scratch ~ How we have done it</a>
