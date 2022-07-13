@@ -6,7 +6,7 @@ Keylogger builder written in C#
 • Auto startup
 • Export IP address in email subject
 ```
-<h3>Check out our crashcourse</h3>
+<h3>Check out our FREE crashcourse</h3>
 <a href="https://divine_software.keybase.pub/courses/divinelogger/divinelogger.html">Keylogger in C# from scratch ~ How we have done it</a>
 <br>
 <h3>Showcase</h3>
